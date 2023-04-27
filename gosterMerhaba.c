@@ -1,7 +1,9 @@
 #include "stdio.h"
+#include "conio.h"
 int main(int argc, char const *argv[])
 {
-	/*Dünyaya merhaba diyorum.*/ 
-	printf("%s Merhaba Dünya \n");
+	/*Dunyaya merhaba diyorum.*/ 
+	printf(" Merhaba Dunya \n");
+	getch();
 	return 0;
 }
